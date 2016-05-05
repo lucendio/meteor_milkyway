@@ -16,7 +16,7 @@ Package.onUse( function( api ){
     
     
     Npm.depends({
-        'webrtc-adapter': '1.0.7'
+        
     });
 
 
