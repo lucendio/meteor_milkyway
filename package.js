@@ -1,6 +1,6 @@
 
 Package.describe({
-    name: 'lucendio:rtc',
+    name: 'lucendio:milkyway',
     summary: 'putting DDP on top of a WebRTC to sync minimongos directly between clients',
     version: '0.0.0',
     git: 'https://github.com/lucendio/meteor_milkyway.git',
